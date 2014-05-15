@@ -8,7 +8,7 @@ public class Test implements UnprotectedRootAction {
 
 //  get Icon
     public String getIconFileName(){
-        return "/plugin/subversionMerge/images/icon.png";
+        return "/plugin/subversionMerge/images/icon.jpg";
     }
 //  the Display name
     public String getDisplayName(){
